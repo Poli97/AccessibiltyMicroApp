@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{784FCD54-187B-4098-BD87-559640B3EA57}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomViewAccessibility.Android/AndroidAccessibleButton.cs">
+    <Files>
+      <File FileName="CustomViewAccessibility/MainPage.xaml" Line="5" Column="1" />
+      <File FileName="CustomViewAccessibility/MainPage.xaml.cs" Line="27" Column="10" />
+      <File FileName="CustomViewAccessibility.Android/AndroidAccessibleButton.cs" Line="44" Column="3" />
+      <File FileName="CustomViewAccessibility.iOS/IOSAccessibleButton.cs" />
+      <File FileName="CustomViewAccessibility/IAccessibleButton.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomViewAccessibility" expanded="True">
+            <Node name="CustomViewAccessibility" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="CustomViewAccessibility.Android" expanded="True">
+              <Node name="AndroidAccessibleButton.cs" selected="True" />
+            </Node>
+            <Node name="CustomViewAccessibility.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomViewAccessibility.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.460FFED4-D83A-483B-AAED-00139629E88A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomViewAccessibility.Android PreferredExecutionTarget="Android.galaxy_s9" />
+</Properties>

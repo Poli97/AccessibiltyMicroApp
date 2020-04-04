@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{123C0B9E-BA9D-45F3-B10F-09A4E9746ABB}|Default">
+  <MonoDevelop.Ide.ItemProperties.XAMARINAccessibilityOrder.Android PreferredExecutionTarget="Android.galaxy_s9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XAMARINAccessibilityOrder.iOS/Info.plist">
+    <Files>
+      <File FileName="XAMARINAccessibilityOrder/MainPage.xaml" Line="3" Column="37" />
+      <File FileName="XAMARINAccessibilityOrder/MainPage.xaml.cs" Line="59" Column="3" />
+      <File FileName="XAMARINAccessibilityOrder.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XAMARINAccessibilityOrder" expanded="True">
+            <Node name="XAMARINAccessibilityOrder" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XAMARINAccessibilityOrder.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.XAMARINAccessibilityOrder.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.a0e5d005d2a40304c7f69660b3e0435054a9bcff" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

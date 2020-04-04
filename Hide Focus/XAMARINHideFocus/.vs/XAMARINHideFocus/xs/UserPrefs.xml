@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{456E08CB-3F65-45A3-9266-4A34C2279927}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XAMARINHideFocus/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XAMARINHideFocus/MainPage.xaml" Line="3" Column="37" />
+      <File FileName="XAMARINHideFocus/MainPage.xaml.cs" Line="58" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XAMARINHideFocus" expanded="True">
+            <Node name="XAMARINHideFocus" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XAMARINHideFocus.Android PreferredExecutionTarget="Android.23e46ec8990c7ece" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XAMARINHideFocus.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

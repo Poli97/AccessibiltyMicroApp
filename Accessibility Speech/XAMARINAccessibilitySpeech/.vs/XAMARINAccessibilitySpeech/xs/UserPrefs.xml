@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{006B8EC2-2BDA-48B7-A811-6749B31A03D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.XAMARINAccessibilitySpeech.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.460FFED4-D83A-483B-AAED-00139629E88A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XAMARINAccessibilitySpeech.iOS/IosAccessibilitySpeak.cs">
+    <Files>
+      <File FileName="XAMARINAccessibilitySpeech/MainPage.xaml" Line="5" Column="1" />
+      <File FileName="XAMARINAccessibilitySpeech/MainPage.xaml.cs" />
+      <File FileName="XAMARINAccessibilitySpeech/IAccessibilitySpeakService.cs" />
+      <File FileName="XAMARINAccessibilitySpeech.Android/AndroidAccessibilitySpeak.cs" />
+      <File FileName="XAMARINAccessibilitySpeech.iOS/IosAccessibilitySpeak.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XAMARINAccessibilitySpeech" expanded="True">
+            <Node name="XAMARINAccessibilitySpeech" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XAMARINAccessibilitySpeech.Android" expanded="True" />
+            <Node name="XAMARINAccessibilitySpeech.iOS" expanded="True">
+              <Node name="IosAccessibilitySpeak.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XAMARINAccessibilitySpeech.Android PreferredExecutionTarget="Android.23e46ec8990c7ece" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

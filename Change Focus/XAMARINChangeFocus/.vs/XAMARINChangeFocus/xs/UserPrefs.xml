@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{13736863-A486-4569-A9C6-D7420516F9F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XAMARINChangeFocus.iOS/Info.plist">
+    <Files>
+      <File FileName="XAMARINChangeFocus/MainPage.xaml" Line="5" Column="1" />
+      <File FileName="XAMARINChangeFocus/MainPage.xaml.cs" />
+      <File FileName="XAMARINChangeFocus/IChangeFocusService.cs" />
+      <File FileName="XAMARINChangeFocus.iOS/IosFocusChange.cs" />
+      <File FileName="XAMARINChangeFocus.Android/AndroidFocusChange.cs" Line="15" Column="84" />
+      <File FileName="XAMARINChangeFocus.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XAMARINChangeFocus" expanded="True">
+            <Node name="XAMARINChangeFocus" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XAMARINChangeFocus.Android" expanded="True" />
+            <Node name="XAMARINChangeFocus.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XAMARINChangeFocus.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.a0e5d005d2a40304c7f69660b3e0435054a9bcff" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.XAMARINChangeFocus.Android PreferredExecutionTarget="Android.galaxy_s9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

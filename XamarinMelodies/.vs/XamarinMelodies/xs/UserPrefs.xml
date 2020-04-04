@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{4F58293F-6F15-4B70-8E96-00944133BA9C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinMelodies/ExercisePage.xaml.cs">
+    <Files>
+      <File FileName="XamarinMelodies/Model/ExerciseModel.cs" Line="52" Column="48" IsPinned="True" />
+      <File FileName="XamarinMelodies/MainPage.xaml.cs" />
+      <File FileName="XamarinMelodies/ListPage.xaml" />
+      <File FileName="XamarinMelodies/ListPage.xaml.cs" />
+      <File FileName="XamarinMelodies/Model/CustomCellList.cs" />
+      <File FileName="XamarinMelodies/LevelsPage.xaml" Line="1" Column="1" />
+      <File FileName="XamarinMelodies/LevelsPage.xaml.cs" />
+      <File FileName="XamarinMelodies/ExercisePage.xaml" />
+      <File FileName="XamarinMelodies/ExercisePage.xaml.cs" Line="613" Column="70" />
+      <File FileName="XamarinMelodies/Model/DragBox.cs" Line="51" Column="81" />
+      <File FileName="XamarinMelodies/Model/InsertBox.cs" />
+      <File FileName="XamarinMelodies.iOS/Info.plist" />
+      <File FileName="XamarinMelodies/Model/IAccessibleImage.cs" />
+      <File FileName="XamarinMelodies.Android/AndroidAccessibleImage.cs" />
+      <File FileName="XamarinMelodies.iOS/IOSAccessibleImage.cs" />
+      <File FileName="XamarinMelodies/Model/EserciziJSON.json" Line="60" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinMelodies" expanded="True">
+            <Node name="XamarinMelodies" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ExercisePage.xaml" expanded="True">
+                <Node name="ExercisePage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="LevelsPage.xaml" expanded="True" />
+              <Node name="ListPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinMelodies.Android" expanded="True" />
+            <Node name="XamarinMelodies.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinMelodies.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.460FFED4-D83A-483B-AAED-00139629E88A" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinMelodies.Android PreferredExecutionTarget="Android.galaxy_s9" />
+</Properties>

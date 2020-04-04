@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinMelodies;assembly=XamarinMelodies"
+             x:Class="XamarinMelodies.LevelsPage">
+    <ContentPage.Content>
+        <StackLayout x:Name="screen">
+            <!--
+                <ListView x:Name="difficultyList"
+                        Margin="20"
+                        Footer="">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell x:Name="cella">
+                                <StackLayout Orientation="Horizontal" BackgroundColor="PaleGreen" TabIndex="1">
+                                    <Image Source="{local:ImageResource XamarinMelodies.Immagini.scissors.png}" />
+                                    <Label Text="{Binding Key}" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            -->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

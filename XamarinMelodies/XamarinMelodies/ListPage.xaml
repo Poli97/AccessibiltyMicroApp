@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinMelodies;assembly=XamarinMelodies"
+             x:Class="XamarinMelodies.ListPage">
+    <ContentPage.Content>
+        <StackLayout x:Name="sfondo">
+            <!--
+                <ListView x:Name="exList"
+                        Margin="20"
+                        Footer="">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell x:Name="cella">
+                                <StackLayout x:Name="cella2" Orientation="Horizontal" BackgroundColor="#ceffbf" AutomationProperties.IsInAccessibleTree="False" AutomationProperties.Name="{Binding name}">
+                                    <Image Source="{local:ImageResource XamarinMelodies.Immagini.pencil.png}" WidthRequest="100" AutomationProperties.IsInAccessibleTree="False"/>
+                                    <Label x:Name="cellLabel" Text="{Binding name}" FontAttributes="Bold" VerticalTextAlignment="Center" AutomationProperties.IsInAccessibleTree="True"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            -->
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,66 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.356" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.4.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Model\EserciziJSON.json" />
+    <None Remove="Immagini\back.jpg" />
+    <None Remove="Immagini\bg1.jpg" />
+    <None Remove="Immagini\kids2.png" />
+    <None Remove="Immagini\cat.png" />
+    <None Remove="Immagini\dog.png" />
+    <None Remove="Suoni\dogsound.mp3" />
+    <None Remove="Suoni\catsound.mp3" />
+    <None Remove="Suoni\wrong_answer.mp3" />
+    <None Remove="Suoni\blop.mp3" />
+    <None Remove="Suoni\correct_answer.mp3" />
+    <None Remove="Suoni\blop2.mp3" />
+    <None Remove="Immagini\pencil.png" />
+    <None Remove="Immagini\scissors.png" />
+    <None Remove="Immagini\dogframe.jpeg" />
+    <None Remove="Suoni\eraser.mp3" />
+    <None Remove="Immagini\dog.png" />
+    <None Remove="Immagini\blackBackNav.png" />
+    <None Remove="Immagini\whiteBackNav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Model\EserciziJSON.json" />
+    <EmbeddedResource Include="Immagini\back.jpg" />
+    <EmbeddedResource Include="Immagini\bg1.jpg" />
+    <EmbeddedResource Include="Immagini\kids2.png" />
+    <EmbeddedResource Include="Immagini\cat.png" />
+    <EmbeddedResource Include="Suoni\dogsound.mp3" />
+    <EmbeddedResource Include="Suoni\catsound.mp3" />
+    <EmbeddedResource Include="Suoni\wrong_answer.mp3" />
+    <EmbeddedResource Include="Suoni\blop.mp3" />
+    <EmbeddedResource Include="Suoni\correct_answer.mp3" />
+    <EmbeddedResource Include="Suoni\blop2.mp3" />
+    <EmbeddedResource Include="Immagini\pencil.png" />
+    <EmbeddedResource Include="Immagini\scissors.png" />
+    <EmbeddedResource Include="Immagini\dogframe.jpeg" />
+    <EmbeddedResource Include="Suoni\eraser.mp3" />
+    <EmbeddedResource Include="Immagini\dog.png" />
+    <EmbeddedResource Include="Immagini\blackBackNav.png" />
+    <EmbeddedResource Include="Immagini\whiteBackNav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android">
+      <HintPath>..\..\..\..\..\Library\Frameworks\Xamarin.Android.framework\Versions\10.0.6.2\lib\xamarin.android\xbuild-frameworks\MonoAndroid\v9.0\Mono.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.iOS">
+      <HintPath>..\..\..\..\..\Library\Frameworks\Xamarin.iOS.framework\Versions\13.6.0.12\lib\mono\Xamarin.iOS\Xamarin.iOS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,111 @@
+﻿{
+  "exercises": [
+    {
+      "name": "Compared counting",
+      "code": "cc",
+      "description": "Which animal appear more times?",
+      "difficulty_level": {
+        "6 images": 6,
+        "10 images": 10,
+        "14 images": 14
+      }
+    },
+
+    {
+      "name": "Insert or delete",
+      "code": "iod",
+      "description": "Add or delete to get: ",
+      "difficulty_level": {
+        "2 lines": 8,
+        "3 lines": 12
+      }
+
+    },
+
+    {
+      "name": "Complete the sentence",
+      "code": "cts",
+      "description": "Complete the sentence whith the right word",
+      "difficulty_level": {
+        "Level 1": 1
+      },
+      "ctsex": [
+        {
+          "first_sentence": "I am ",
+          "second_sentence": ". I think I will go to sleep. ",
+          "words": {
+            "tired": true,
+            "happy": false,
+            "angry": false,
+            "thirsty": false
+          }
+        },
+        {
+          "first_sentence": "When I need to ride on the bus, I go to the ",
+          "second_sentence": ". ",
+          "words": {
+            "station": true,
+            "airport": false,
+            "mall": false,
+            "church": false
+          }
+        },
+        {
+          "first_sentence": "Keisha ",
+          "second_sentence": " the contract because it was not fair. ",
+          "words": {
+            "rejected": true,
+            "accepted": false,
+            "signed": false,
+            "liked": false
+          }
+        }
+      ]
+
+    },
+
+    {
+      "name": "Complete the operation",
+      "code": "co",
+      "description": "Complete the operation",
+      "difficulty_level": {
+        "2 digits": 99,
+        "3 digits": 999
+      }
+
+    },
+
+    {
+      "name": "Complete the operation",
+      "code": "co",
+      "description": "Complete the operation",
+      "difficulty_level": {
+        "2 digits": 99,
+        "3 digits": 999
+      }
+
+    },
+
+    {
+      "name": "Complete the operation",
+      "code": "co",
+      "description": "Complete the operation",
+      "difficulty_level": {
+        "2 digits": 99,
+        "3 digits": 999
+      }
+
+    },
+
+    {
+      "name": "Complete the operation",
+      "code": "co",
+      "description": "Complete the operation",
+      "difficulty_level": {
+        "2 digits": 99,
+        "3 digits": 999
+      }
+
+    }
+  ]
+}
